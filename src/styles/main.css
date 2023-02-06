@@ -6,4 +6,10 @@ body {
   margin: 0;
   padding: 0;
   background-color: rgb(66, 66, 183);
+}
+
+.header {
+  width: 100%;
+  padding: 2rem;
+  background-color: rgb(255, 0, 119);
 }/*# sourceMappingURL=main.css.map */
